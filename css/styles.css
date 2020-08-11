@@ -1,3 +1,13 @@
 h1 {
   text-decoration: line-through;
 }
+#sandCastle {
+  display: none;
+}
+.click:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+#sandCastleToo {
+  display: none;
+}
